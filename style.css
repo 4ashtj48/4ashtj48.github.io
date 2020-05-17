@@ -39,7 +39,7 @@ body {
 }
 @media (max-width: 550px) {
   .homepage {
-    flex-direction: column;
+    flex-direction: column-reverse;
     text-align: center;
   }
   .homepage div {
@@ -207,10 +207,9 @@ nav {
   top: 0;
   width: 100%;
   background-color: grey;
-  position: fixed;
   left: 0;
   right: 0;
-  height: 40px;
+  height: 45px;
   display: flex;
 }
 
@@ -218,7 +217,9 @@ nav a {
   float: left;
   display: block;
 
-  color: #f2f2f2;
+  color: floralwhite;
+  font-family: monospace;
+
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
