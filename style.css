@@ -170,7 +170,6 @@ main.skills {
   font-family: Arial, Helvetica, sans-serif;
   color: floralwhite;
 }
-/*contact*/
 
 main.contact {
   display: flex;
@@ -202,6 +201,11 @@ main.contact {
 
 .contact textarea {
   width: 75%;
+}
+
+form#contact-form {
+  margin-left: -200px;
+  /*fix this- display flex*/
 }
 
 nav {
@@ -236,9 +240,6 @@ nav a {
 .contact label {
   color: floralwhite;
   font-family: monospace;
-}
-.contact.head {
-  margin-top: 40px;
 }
 
 .contact h1 {
