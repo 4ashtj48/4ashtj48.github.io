@@ -13,45 +13,50 @@
       <a href="about.html">About Me</a>
       <a href="skills.html">Skills</a>
       <a href="contact.html">Contact</a>
-      <a href="privacyp.html">Privacy policy</a>
+      <a href="privacyp.html">Privacy</a>
+      <a href="cookies.html">Cookies</a>
     </nav>
     <main class="contact">
-      <div id="head"><h1>Contact me</h1></div>
-      <div class="contact_form" onload="main()">
-        <form action="google.com" id="contact-form" method="get">
-          <label for="Name"> Name </label>
-          <p><input type="text" name="name" id="name" placeholder="" /></p>
-          <p id="nameRequiredError" style="display: none; color: red;">
-            Name is required
-          </p>
-          <label for="Email"> Email</label>
-          <p><input type="email" name="email" id="email" placeholder="" /></p>
-          <p id="emailRequiredError" style="display: none; color: red;">
-            Email is required
-          </p>
-          <label for="Message"> Message</label>
-          <p id="textarea">
-            <textarea
-              id="subject"
-              name="subject"
-              placeholder="Write something.."
-              style="height: 200px;"
-            ></textarea>
-          </p>
-          <p>
-            I agree to being contacted by the methods above;
-            <input type="radio" name="terms" value="yes" id="yesTerms" />
-          </p>
-          <p></p>
-          <p id="termsRequiredError" style="display: none; color: red;">
-            You must tell us if you want to be contacted or not.
-          </p>
-          <input type="submit" value="submit" />
-        </form>
+      
+        <div id="head"><h1>Contact me</h1></div>
+       
+        <div class="contact_form" onload="main()">
+          <form action="google.com" id="contact-form" method="get">
+            <label for="Name"> Name </label>
+            <p><input type="text" name="name" id="name" placeholder="" /></p>
+            <p id="nameRequiredError" style="display: none; color: red;">
+              Name is required
+            </p>
+            <label for="Email"> Email</label>
+            <p><input type="email" name="email" id="email" placeholder="" /></p>
+            <p id="emailRequiredError" style="display: none; color: red;">
+              Email is required
+            </p>
+            <label for="Message"> Message</label>
+            <p id="textarea">
+              <textarea
+                id="subject"
+                name="subject"
+                placeholder="Write something.."
+                style="height: 200px;"
+              ></textarea>
+            </p>
+            <p>
+              I agree to being contacted by the methods above;
+              <input type="radio" name="terms" value="yes" id="yesTerms" />
+            </p>
+            <p></p>
+            <p id="termsRequiredError" style="display: none; color: red;">
+              You must tell us if you want to be contacted or not.
+            </p>
+            <input type="submit" value="submit" />
+          </form>
+        </div>
+        <div>
+          <img src="images/pic-test.jpg" alt="pic about me" />
+        </div>
       </div>
-      <div>
-        <img src="images/pic-test.jpg" alt="pic about me" />
-      </div>
+   
     </main>
   </body>
 </html>
