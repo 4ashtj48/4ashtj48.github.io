@@ -179,6 +179,10 @@ main.contact {
   padding: 0 15px;
 }
 
+.contact textarea {
+  width: 75%;
+}
+
 nav {
   position: fixed;
   top: 0;
@@ -219,4 +223,9 @@ nav a {
   .about div {
     width: 100%;
   }
+}
+
+.contact label {
+  color: floralwhite;
+  font-family: monospace;
 }
