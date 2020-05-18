@@ -200,11 +200,11 @@ main.contact {
 }
 
 .contact textarea {
-  width: 75%;
+  width: 70%;
 }
 
 form#contact-form {
-  margin-left: -200px;
+  margin-left: -400px;
   /*fix this- display flex*/
 }
 
