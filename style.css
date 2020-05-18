@@ -117,6 +117,10 @@ main.about {
   .about div {
     width: 100%;
   }
+  .about section {
+    display: flex;
+    flex-direction: column;
+  }
 }
 
 .text_width {
@@ -171,9 +175,20 @@ main.skills {
   color: floralwhite;
 }
 
+@media (max-width: 550px) {
+  .skills .div.container {
+    display: flex;
+    flex-direction: column-reverse;
+  }
+
+  .skills .widthhalf {
+    width: 100%;
+  }
+}
+
 main.contact {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   align-items: center;
   width: 100%;
   height: 100vh;
@@ -203,11 +218,20 @@ main.contact {
   width: 70%;
 }
 
-form#contact-form {
-  margin-left: -400px;
-  /*fix this- display flex*/
+.contact section {
+  width: 100%;
+  display: flex;
 }
 
+@media (max-width: 550px) {
+  .contact section {
+    flex-direction: column;
+    text-align: center;
+  }
+  .contact section div {
+    width: 100%;
+  }
+}
 nav {
   position: fixed;
   top: 0;
@@ -231,11 +255,18 @@ nav a {
   text-decoration: none;
 }
 
-.nav a:hover {
+nav a:hover {
   background: #ddd;
   color: black;
 }
-/* fill navigation bar*/
+
+@media (max-width: 550px) {
+  nav {
+    position: relative;
+    height: auto;
+    flex-wrap: wrap;
+  }
+}
 
 .contact label {
   color: floralwhite;
