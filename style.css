@@ -122,6 +122,7 @@ main.about {
   }
   .pic.holder {
     display: flex;
+    width: fit-content;
   }
   .about p {
     font-family: Arial, Helvetica, sans-serif;
@@ -208,6 +209,7 @@ main.contact {
   width: 100%;
   height: 100%;
   border-radius: 100%;
+  padding: 15px;
 }
 
 .contact p {
@@ -268,7 +270,7 @@ nav a:hover {
 
 @media (max-width: 550px) {
   nav {
-    position: relative;
+    position: fixed;
     height: auto;
     flex-wrap: wrap;
   }
