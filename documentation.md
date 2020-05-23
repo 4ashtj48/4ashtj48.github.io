@@ -1,7 +1,8 @@
 ## Documentation.md
 
-For this assessment, I have decided to create a portfolio, which sets out to solve the issue of self- promotion and to provide a platform that I can update as I gain skills, displaying and documenting the work that I have complete over the course of university, possibly even after. A portfolio seemed a good place to start to learn more CSS techniques as I am still being very experimental and finding techniques that work for me and I can use as transferable skills to other websites.
-One thing I have picked up whilst exploring image positioning which I have used on all of the main pages is the CSS Flexbox layout module, using columns and rows to order to place the containers horizontally or vertically, which made the transition to responsive pages a lot easier to deal with.
+For this assessment, I have decided to create a portfolio, which sets out to solve the issue of self-promotion and to provide a platform that I can update as I gain skills, displaying and documenting the work that I have complete over the course of university, possibly even after.
+A portfolio seemed a good idea, giving me a foundation which allows me to continue to learn and improve with more CSS techniques which will provide transferable skills to other websites.
+One thing I have picked up on whilst exploring image positioning, which I have used on all of the main pages, is the CSS Flexbox layout module,which uses columns and rows to order to place the containers horizontally or vertically, which made the transition to responsive pages a lot easier to deal with.
 
 ## Colour choices
 
