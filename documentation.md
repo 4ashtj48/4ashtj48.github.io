@@ -6,9 +6,9 @@ One thing I have picked up on whilst exploring image positioning, which I have u
 
 ## Colour choices
 
-The colour scheme of the site stems from looking into other tech company logo’s, a lot of them seem to incorporate blue and white, such as Samsung, IBM, Intel, HP and many other examples so I based my initial idea using this as a stencil to the overarching ‘look’ of the website.
-I looked further into colour psychology and according to 99designs, blue is used in technology companies as it indicates steadfastness and security, I also wanted to add a turquoise layer, knowing that I needed some contrast if blue was going to be appearing in my backgrounds. Turquoise, meaning open communication and clarity of thought, which I thought works nicely in tandem with the dark blue displayed.
-I originally had a smooth, dark blue as a background for the sites, I felt like it required some sort of effect or sheen on it, I found a few designs I liked the look of from trianglify.io which generates geometric patterns to your colour design, however I settled on a repeating pattern, which I chose, simply, as it is very close to my favourite jumper design and thought it added a slightly more personal touch to the portfolio, which I am marketing myself on.
+The colour scheme of the site stems from looking into other tech company logo’s, a lot of them seem to incorporate blue and white, such as Samsung, IBM, Intel, HP and many other examples. I based my initial idea using this as a stencil to the overarching ‘look’ of the website.
+I looked further into colour psychology and according to 99designs, blue is primarily used in technology companies as it indicates steadfastness and security. I also wanted to add a turquoise layer, knowing that I needed some contrast if blue was going to be appearing in my backgrounds. Turquoise, meaning open communication and clarity of thought, which I thought works nicely in tandem with the dark blue displayed.
+I originally had a smooth, dark blue as a background for the sites, I felt like it required an effect or sheen on it, I found a few designs I liked the look of from trianglify.io which generates geometric patterns to your colour design, however I settled on a repeating pattern, which I chose, simply, as it is very close to my favourite jumper design and thought it added a slightly more personal touch to the portfolio, which I am marketing myself on.
 
 ## GDPR
 
