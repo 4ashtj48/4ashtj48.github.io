@@ -1,4 +1,4 @@
-Documentation.md
+##Documentation.md
 
 For this assessment, I have decided to create a portfolio, which sets out to solve the issue of self- promotion and to provide a platform that I can update as I gain skills, displaying and documenting the work that I have complete over the course of university, possibly even after. A portfolio seemed a good place to start to learn more CSS techniques as I am still being very experimental and finding techniques that work for me and I can use as transferable skills to other websites.
 One thing I have picked up whilst exploring image positioning which I have used on all of the main pages is the CSS Flexbox layout module, using columns and rows to order to place the <div> containers horizontally or vertically, which made the transition to responsive pages a lot easier to deal with.
@@ -26,5 +26,5 @@ Although my own website only uses one media query at 550px to scale the website 
 Website https://4ashtj48.github.io/
 Github repository https://github.com/4ashtj48/4ashtj48.github.io
 
-Sources
+Sources<br>
 99designs, available from https://99designs.co.uk/logo-design/psychology-of-color/technology last viewed 23/05/2020
