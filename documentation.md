@@ -1,7 +1,7 @@
 ## Documentation.md
 
 For this assessment, I have decided to create a portfolio, which sets out to solve the issue of self- promotion and to provide a platform that I can update as I gain skills, displaying and documenting the work that I have complete over the course of university, possibly even after. A portfolio seemed a good place to start to learn more CSS techniques as I am still being very experimental and finding techniques that work for me and I can use as transferable skills to other websites.
-One thing I have picked up whilst exploring image positioning which I have used on all of the main pages is the CSS Flexbox layout module, using columns and rows to order to place the <div> containers horizontally or vertically, which made the transition to responsive pages a lot easier to deal with.
+One thing I have picked up whilst exploring image positioning which I have used on all of the main pages is the CSS Flexbox layout module, using columns and rows to order to place the containers horizontally or vertically, which made the transition to responsive pages a lot easier to deal with.
 
 Colour Choices
 The colour scheme of the site stems from looking into other tech company logo’s, a lot of them seem to incorporate blue and white, such as Samsung, IBM, Intel, HP and many other examples so I based my initial idea using this as a stencil to the overarching ‘look’ of the website.
