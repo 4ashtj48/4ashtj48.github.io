@@ -1,4 +1,4 @@
-##Documentation.md
+## Documentation.md
 
 For this assessment, I have decided to create a portfolio, which sets out to solve the issue of self- promotion and to provide a platform that I can update as I gain skills, displaying and documenting the work that I have complete over the course of university, possibly even after. A portfolio seemed a good place to start to learn more CSS techniques as I am still being very experimental and finding techniques that work for me and I can use as transferable skills to other websites.
 One thing I have picked up whilst exploring image positioning which I have used on all of the main pages is the CSS Flexbox layout module, using columns and rows to order to place the <div> containers horizontally or vertically, which made the transition to responsive pages a lot easier to deal with.
@@ -22,6 +22,9 @@ I found the most difficult hurdle when creating the website is getting to grips 
 
 One thing I would do differently if I repeated this assessment would be to use a 'mobile first' approach to solve responsiveness, and although I managed to use styling to get around a few issues, I can see the merit in styling for mobile screens first as designing the page is objectively harder, before moving onto the desktop and tablet sizes.
 Although my own website only uses one media query at 550px to scale the website to a mobile screen, it demonstrates the ability to make a responsive website as it would only be more of the same styling at different values up to a point. I tested all of my pages through using the inspect option via Google chrome and toggled between the two sizes, selecting elements to change and test in the browser. Finally, to finish testing, I used my own mobile as well as asking a few friends to view the site to making sure it looked presentable.
+
+Lastly, I am very happy now using Github to version control, I feel like using and commiting regularly and labeling each change proved very useful, keeping track of the changes over the project, allowing me to see changes I had made earlier in the programme for styling.
+Overall I have learnt a lot creating this website, putting a lot of skills from the lessons to practical use as well as going beyond sorting spacing issues, using version control and creating a responsive site, giving me valuable experience going forward when it comes to making future websites.
 
 Website https://4ashtj48.github.io/
 Github repository https://github.com/4ashtj48/4ashtj48.github.io
