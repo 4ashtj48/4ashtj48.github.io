@@ -26,7 +26,7 @@ One thing I would do differently if I repeated this assessment would be to use a
 Although my own website only uses one media query at 550px to scale the website to a mobile screen, it demonstrates the ability to make a responsive website as it would only be more of the same styling at different values up to a point. I tested all of my pages through using the inspect option via Google chrome and toggled between the two sizes, selecting elements to change and test in the browser. Finally, to finish testing, I used my own mobile as well as asking a few friends to view the site to making sure it looked presentable.
 
 Lastly, I am very happy now using Github to version control, I feel like using and commiting regularly and labeling each change proved very useful, keeping track of the changes over the project, allowing me to see changes I had made earlier in the programme for styling.
-Overall I have learnt a lot creating this website, putting a lot of skills from the lessons to practical use as well as going beyond sorting spacing issues, using version control and creating a responsive site, giving me valuable experience going forward when it comes to making future websites.
+Over all I have learnt a lot creating this website, putting a lot of skills from the lessons to practical use as well as going beyond sorting spacing issues, using version control and creating a responsive site, giving me valuable experience going forward when it comes to making future websites.
 
 Website https://4ashtj48.github.io/
 Github repository https://github.com/4ashtj48/4ashtj48.github.io
